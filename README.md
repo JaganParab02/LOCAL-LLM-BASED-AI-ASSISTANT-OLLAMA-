@@ -238,10 +238,3 @@ pip install PyPDF2 python-docx
 
 ---
 
-## 👨‍💻 Author
-
-**Jagan Parab**
-Computer Science Student | AI & Full-Stack Enthusiast
-
----
-
