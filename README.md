@@ -227,14 +227,3 @@ pip install PyPDF2 python-docx
 
 ---
 
-## 📌 Future Improvements (Optional)
-
-* Chat export (Markdown / PDF)
-* Dark mode UI
-* Offline speech recognition (Vosk)
-* Embeddings + document search
-* Model parameters (temperature, max tokens)
-* Dockerized setup
-
----
-
