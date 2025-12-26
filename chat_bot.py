@@ -60,7 +60,7 @@ class OllamaWorker(QThread):
                         data = json.loads(line.decode("utf-8"))
                     except Exception:
                         continue
-
+  
                     # Newer Ollama chat streaming format
                     if isinstance(data, dict) and "message" in data and isinstance(data["message"], dict):
                         content = data["message"].get("content")
